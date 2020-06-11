@@ -36,6 +36,7 @@
     "react-scrolltop-button": "^0.1.6",
     "react-swipeable-views": "^0.13.9",
     "react-tap-event-plugin": "^3.0.3",
+    "react-test-renderer": "^16.13.1",
     "reactstrap": "^8.4.1",
     "universal-react-logger": "^1.0.6",
     "yup": "^0.28.3"
